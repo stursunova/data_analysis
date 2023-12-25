@@ -1,6 +1,7 @@
-# udacity_projects
+# Data analysis related projects
 
-udacity_projects is a repository for my projects which I made or related to udacity's nanodegrees.
+This is a repository for my data analytics projects which I made for study.
+
 
 ### Issues
 If you find any typos or things to be corrected - let me know.
